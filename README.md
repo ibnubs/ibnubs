@@ -7,7 +7,7 @@ I´m based in South Tangerang, Indonesia.
 
 
 ### What I'm focusing on 👨‍💻
-Currently improving my React skills: MERC, NODE JS, and React Native.<br />
+Currently improving my React skills: MERN, NODE JS, and React Native.<br />
 Sharpen my bussines and management skill.<br />
 
 ### Find me elsewhere 🌎
